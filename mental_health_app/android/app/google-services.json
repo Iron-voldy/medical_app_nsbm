@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349388444543",
+    "project_id": "praneeth-mh-app-2025",
+    "storage_bucket": "praneeth-mh-app-2025.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349388444543:android:cdc18025b21a078832c04a",
+        "android_client_info": {
+          "package_name": "com.example.mental_health_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEdDFZrAbwZhp9jni6DBbChFvrV3kzAFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
